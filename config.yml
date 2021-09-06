@@ -1,0 +1,23 @@
+users:
+  - user:
+      username: '20203739'
+      password: 'gtmdjrxy1'
+      address: '吉林省长春市宽城区长春工业大学'
+      schoolName: 长春工业大学
+      lon: 125.398101
+      lat: 44.001899
+      photo: sign.jpg
+      checkTitle: 1
+      forms:
+        - form:
+            title: 早测温
+            value: 37.3度以下
+        - form:
+            title: 午测温
+            value: 37.3度以下
+        - form:
+            title: 晚测温
+            value: 37.3度以下
+        - form:
+            title: 健康状况
+            value: 健康
